@@ -1,0 +1,4 @@
+ChatGPT GitHub connection test
+
+This file was created to verify that ChatGPT can write and commit to the iUnrealCoding/M repository.
+No existing files were modified.
